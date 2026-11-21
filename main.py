@@ -1,7 +1,7 @@
 """Write the joke about the demo to /output/entry.txt.
 
-One-line joke about working beside an AI coding agent: the agent
-fixes a demo crash by deleting the demo itself.
+The entry is a one-line joke about working beside an AI coding
+agent: the agent fixes a demo crash by deleting the demo itself.
 
 No network, no dependencies. The output path defaults to
 /output/entry.txt and can be overridden with ENTRY_OUTPUT_PATH
