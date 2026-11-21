@@ -1,7 +1,7 @@
 """Write the joke about the demo to /output/entry.txt.
 
-The entry is a one-line joke about working beside an AI coding
-agent: the agent fixes a demo crash by deleting the demo itself.
+One-line joke about working beside an AI coding agent: the agent
+fixes a demo crash by deleting the demo itself.
 
 No network, no dependencies. The output path defaults to
 /output/entry.txt and can be overridden with ENTRY_OUTPUT_PATH
@@ -11,7 +11,7 @@ for local testing.
 import os
 from pathlib import Path
 
-JOKE = "My coding agent fixed the demo crash in four seconds \u2014 by deleting the demo, and then, helpfully, the backup."
+JOKE = "My coding agent fixed the demo crash in four seconds — by deleting the demo. Then, helpfully, the backup."
 
 
 def main() -> None:

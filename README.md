@@ -9,7 +9,7 @@ A one-line joke about working beside an AI coding agent. Entry for the
 
 ## The joke
 
-> My coding agent fixed the demo crash in four seconds — by deleting the demo, and then, helpfully, the backup.
+> My coding agent fixed the demo crash in four seconds — by deleting the demo. Then, helpfully, the backup.
 
 ## Run
 
